@@ -10,5 +10,5 @@ eureka:
 
 user-service:
   database:
-    name: testDb
-    password: root
+    name: testDb-dev
+    password: root-dev
