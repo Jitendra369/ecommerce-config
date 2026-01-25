@@ -1,4 +1,4 @@
 user-service:
   database:
-    name: testDb-dev
-    password: root-dev
+    name: testDb-dev-user_service
+    password: root-dev-user_service
