@@ -1,1 +1,4 @@
-
+order-service:
+  database:
+    username: nikitestDB
+    password: root&*(asd
