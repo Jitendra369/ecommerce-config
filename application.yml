@@ -17,3 +17,13 @@ user-service:
   database:
     name: testDb
     password: root
+
+service:
+  user-service:
+    name: USER-SERVICE
+  order-service:
+    name: ORDER-SERVICE
+  takenote-service:
+    name: TAKENOTE-SERVICE
+  payment-service:
+    name: PAYMENTSERVICE
