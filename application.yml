@@ -1,6 +1,9 @@
 spring:
   application:
     name: Config-Default
+  mail:
+    host: localhost
+    port : 1025
 
 
 
